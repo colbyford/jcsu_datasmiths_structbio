@@ -1,2 +1,3 @@
-# jcsu_datasmiths_structbio
-Johnson C. Smith University DataSmiths 3-Day Structural Biology Bootcamp
+# 3-Day Structural Biology Bootcamp
+
+<h3 align="right">Johnson C. Smith University DataSmiths Initiative + UNC Charlotte</h3>
