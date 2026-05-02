@@ -1,6 +1,7 @@
 # 3-Day Structural Biology Bootcamp
 
-<h3 align="right">Johnson C. Smith University DataSmiths Initiative + UNC Charlotte</h3>
+<h3 align="right">Johnson C. Smith University DataSmiths Initiative</h3>
+<h4 align="right">Presented by UNC Charlotte</h4>
 
 
 Test Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/test.ipynb">
