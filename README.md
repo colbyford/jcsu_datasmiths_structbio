@@ -17,6 +17,10 @@
 ## Day 3: AI in Computational Drug Design
 
 - Exercise 1: Generate a Protein Binder with BoltzGen
+  - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_3/exercise_1_boltzgen/boltzgen.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Time: 30 minutes
+  - Other examples: https://github.com/HannesStark/boltzgen/tree/main/example
+  
 - Exercise 2: Generate an Antibody with peleke-1
 - Exercise 3: Generate a Small Molecule Binder with FlowMol3
 - Exercise 4: Make a Binder Against Andes Hantavirus
