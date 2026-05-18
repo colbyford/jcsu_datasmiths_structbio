@@ -30,8 +30,8 @@
   - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_3/exercise_2_peleke-1/peleke.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - Time: 30 minutes
 
-- Exercise 3: Generate a Small Molecule Binder with FlowMol3
-  - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_3/exercise_3_flowmol3/flowmol.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  - Time: 30 minutes
+- Exercise 3: Generate a Small Molecules with MolMIM
+  - Web App: https://build.nvidia.com/nvidia/molmim-generate
+  - Time: 10 minutes
 
 - Exercise 4: Make a Binder Against Andes Hantavirus
