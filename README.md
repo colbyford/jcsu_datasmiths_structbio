@@ -13,6 +13,11 @@
 - PyMOL Educational License Installation: https://pymol.org/ep
 
 ## Day 2: AI Models in Structural Biology
+- Exercise 1: Folding with Boltz-2
+
+- Exercise 2: Molecular Dynamics with OpenMM
+
+- Exercise 3: Protein-Protein Docking with HADDOCK3
 
 ## Day 3: AI in Computational Drug Design
 
