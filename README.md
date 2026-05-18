@@ -20,7 +20,7 @@
   - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_2/exercise_2_openmm/exercise_2_openmm.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 - Exercise 3: Protein-Protein Docking with HADDOCK3
-  - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_2/exercise_3_haddock3/exercise_3_haddock3_docking.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Notebook: <a target="_blank" href="https://colab.research.google.com/github/colbyford/jcsu_datasmiths_structbio/blob/main/day_2/exercise_3_haddock/exercise_3_haddock3_docking.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Day 3: AI in Computational Drug Design
 
