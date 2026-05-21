@@ -1,6 +1,6 @@
 # 3-Day Structural Biology Bootcamp
 
-<h3 align="right">Johnson C. Smith University DataSmiths Initiative</h3>
+<h2 align="right">Johnson C. Smith University DataSmiths Initiative</h2>
 <h4 align="right">Presented by <a href="https://cipher.charlotte.edu" target="_blank">UNC Charlotte CIPHER Center</a> Researchers:<br>Patrick Bircher, MPH; Sayal Guirales-Medrano, MS; Colby T. Ford, PhD </h4>
 
 
